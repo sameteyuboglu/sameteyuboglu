@@ -15,8 +15,8 @@
 - `.Net (Core, MVC, Web Forms)`, `C#`
 - `MSSQL`, `MySQL`, `TSQL`, `PL/SQL`, `Redis`
 - `TypeScript`, `JavaScript`, `Angular4+`, `JQuery`, `Ionic` , `React`
-- `Reporting (Crystal, Sql, Reportico)`, `SharePoint (Development)`
-- `HTML`, `CSS`, `UI (Bootstrap, Metronic, Semantic)`, `SASS`
+- `Reporting (Sql, Telerik Reporting)`
+- `HTML`, `CSS`, `UI (Bootstrap, Tailwind)`, `SASS`
 - `Git`, `Tfs`
 
 <br>
